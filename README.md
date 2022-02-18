@@ -34,6 +34,3 @@ This is a solution to [QR code component challenge](https://www.frontendmentor.i
 
 use of responisve design elements like, fluid layout, responsize units(rem), flexible images.
 
-### Continued Developments
-
-Planning to develop a component using react js.
